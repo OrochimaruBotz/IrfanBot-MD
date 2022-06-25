@@ -45,7 +45,7 @@ global.owner = ['6289510497533'] //ur owner number
 global.ownername = "IRFANFF9"
 global.ytname = "YT: IRFANBOT" //ur yt chanel name
 global.socialm = "GitHub: Irfanff9" //ur github or insta name
-global.location = "Indonesia, Mizoram, Aizawl" //ur location
+global.location = "Indonesia, Probolinggo, Jabung Candi" //ur location
 
 //bot bombdy
 global.botname = "IrfanBot-MD" //ur bot name
