@@ -620,10 +620,10 @@ XeonBotInc.sendReadReceipt(from, m.sender, [m.key.id])}
   if (global.autoReadGc) {
   if (m.isGroup) { XeonBotInc.sendReadReceipt(m.chat, m.sender, [m.key.id]) }
 }
-autoread all
+//autoread all
   if (global.autoReadAll) { if (m.chat) { XeonBotInc.sendReadReceipt(m.chat, m.sender, [m.key.id]) }
   }
-auto recording all
+//auto recording all
     if (global.autoRecord) { if (m.chat) { XeonBotInc.sendPresenceUpdate('recording', m.chat) }
 }
 //autotyper all
