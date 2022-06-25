@@ -604,7 +604,7 @@ XeonBotInc.sendMessage(m.chat, {text: teks, mentions:[m.sender]}, {quoted:m})
                                 console.error(err)
                         }
                 }
-//auto read whatsapp status
+auto read whatsapp status
 if (autoreadsw) {
 		if (from === 'status@broadcast') {
 		XeonBotInc.chatRead(from)
