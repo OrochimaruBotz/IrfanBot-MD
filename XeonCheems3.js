@@ -2602,13 +2602,13 @@ if (isBanChat) return reply(mess.banChat)
  }
  break
 case 'P':
-reply('Salam dulu kek bang kek gak punya agama lu')
+reply(`Salam dulu kek bang kek gak punya agama lu`)
 break
 case 'Assalamualaikum':
-reply('
+reply(`
 وَعَلَيْكُمْ السَّلاَمُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-_waalaikumussalam wr.wb._')
+_waalaikumussalam wr.wb._`)
 break
 case 'ringtone': {
 	if (isBan) return reply(mess.ban)	 			
@@ -5526,7 +5526,7 @@ reply('Successful Change To Self Usage')
 XeonBotInc.setStatus(`Mode : Self`)
 }
 break
-case 'speed': case 'p': case 'ping': case 'botstatus': case 'statusbot': {
+case 'speed': case 'ping': case 'botstatus': case 'statusbot': {
    if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
 const used = process.memoryUsage()
