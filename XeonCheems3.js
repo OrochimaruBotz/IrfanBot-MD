@@ -2602,13 +2602,13 @@ if (isBanChat) return reply(mess.banChat)
  }
  break
 case 'P':
-reply(`Salam dulu kek bang kek gak punya agama lu`)
+reply("Salam dulu kek bang kek gak punya agama lu")
 break
 case 'Assalamualaikum':
-reply(`
+reply("
 وَعَلَيْكُمْ السَّلاَمُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-_waalaikumussalam wr.wb._`)
+_waalaikumussalam wr.wb._")
 break
 case 'ringtone': {
 	if (isBan) return reply(mess.ban)	 			
