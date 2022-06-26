@@ -10950,6 +10950,19 @@ Xeon (Me)
 My family
 And all friends who helped assemble this sexy script !!!`)
 break
+case 'P': 
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(`Salam dulu bang kek gak punya agama lu`)
+break
+case 'Assalamualaikum': 
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply (`
+وَعَلَيْكُمْ السَّلاَمُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+
+_waalaikumussalam wr.wb._`)
+break
 default:
 if (budy.startsWith('=>')) {
 if (!isCreator) return reply(mess.owner)
