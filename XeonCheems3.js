@@ -2601,15 +2601,6 @@ if (isBanChat) return reply(mess.banChat)
  kurangDarah(m.sender, 10)
  }
  break
-case 'P':
-reply("Salam dulu kek bang kek gak punya agama lu")
-break
-case 'Assalamualaikum':
-reply("
-وَعَلَيْكُمْ السَّلاَمُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
-
-_waalaikumussalam wr.wb._")
-break
 case 'ringtone': {
 	if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
