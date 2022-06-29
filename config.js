@@ -41,23 +41,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6289510497533'] //ur owner number
-global.ownername = "IRFANFF9"
+global.owner = ['6288804947282'] //ur owner number
+global.ownername = "Gojo Satoru"
 global.ytname = "YT: IRFANBOT" //ur yt chanel name
-global.socialm = "GitHub: Irfanff9" //ur github or insta name
-global.location = "Indonesia, Probolinggo, Jabung Candi" //ur location
+global.socialm = "GitHub: Gojo-Bot" //ur github or insta name
+global.location = "Indonesia, Jawa timur, Surabaya" //ur location
 
 //bot bombdy
-global.botname = "IrfanBot-MD" //ur bot name
+global.botname = "GojoBot-MD" //ur bot name
 global.websitex = "https://youtube.com/channel/UCB2FsP3zAMlcfRz7iVs2D6A" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "6289510497533\n\n\n\n\n\n\n"
-global.author = "IrfanBot-MD by IRFANFF9"
-global.themeemoji = "🐶"
+global.author = "GojoBot-MD By Gojo Satoru"
+global.themeemoji = "🐔"
 global.reactmoji = "🗿"
-global.ownernummenu = ['6289510497533'] //ur owner number in menu and all
+global.ownernummenu = ['6288804947282'] //ur owner number in menu and all
 global.ownertag = ['-']
-global.watermark = "IrfanBot-MD" //ur watermark
+global.watermark = "GojoBot-MD" //ur watermark
 global.botscript = "https://github.com/irfanff99/IrfanBot-MD"
 global.linkz1 = "https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8"
 global.linkz2 = "https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8"
