@@ -58,15 +58,15 @@ console.log(color('GojoSatoru','mediumseagreen'))
     console.log(color('🐶','red'), color('I Wrote This Script By Myself!', 'yellow'))
     console.log(color('🐶','red'), color('Source Code Version: 3.0', 'aqua'))
     console.log(color('🐶','red'), color('Bug? Error? Suggestion? Talk to developer:', 'aqua'))
-    console.log(color('🐶', 'cyan'), color('https://wa.me/6289510497533'))
+    console.log(color('🐶', 'cyan'), color('https://wa.me/6288804947282'))
     console.log(color('🐶', 'cyan'), color('Gojo-Satoru Is Online...', 'pink'))
     console.log(color('🐶', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
-    console.log(color('🐶','red'), color('Thanks For Using Irfan Bot', 'white'))
+    console.log(color('🐶','red'), color('Thanks For Using Gojo Satoru', 'white'))
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const XeonBotInc = XeonBotIncConnect({
         logger: pino({ level: 'silent' }),
-        printQRInTerminal: true,
-        browser: ['IrfanEva','Safari','1.0.0'],
+        printQRInTerminal: false,
+        browser: ['GojoSatoru','Safari','1.0.0'],
         auth: state,
         version
     })
