@@ -65,7 +65,7 @@ console.log(color('GojoSatoru','mediumseagreen'))
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const XeonBotInc = XeonBotIncConnect({
         logger: pino({ level: 'silent' }),
-        printQRInTerminal: false,
+        printQRInTerminal: trur,
         browser: ['GojoSatoru','Safari','1.0.0'],
         auth: state,
         version
