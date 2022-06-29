@@ -51,10 +51,10 @@ console.log(color(figlet.textSync('Cheems Bot-MD', {
 	    width: 80,
 		whitespaceBreak: true
         }), 'yellow'))
-console.log(color('\n🐶 YT CHANNEL: IRFANBOT ','silver'))
-console.log(color('🐶 GITHUB: irfanff9 ','silver'))
-console.log(color('🐶 WA NUMBER: +6289510497533 ','silver'))
-console.log(color('IRFANBOT-MD','mediumseagreen'))
+console.log(color('\n🐶 YT CHANNEL: Gojo ','silver'))
+console.log(color('🐶 GITHUB: Gojo-Bot ','silver'))
+console.log(color('🐶 WA NUMBER: +6288804947282 ','silver'))
+console.log(color('GojoSatoru','mediumseagreen'))
     console.log(color('🐶','red'), color('I Wrote This Script By Myself!', 'yellow'))
     console.log(color('🐶','red'), color('Source Code Version: 3.0', 'aqua'))
     console.log(color('🐶','red'), color('Bug? Error? Suggestion? Talk to developer:', 'aqua'))
